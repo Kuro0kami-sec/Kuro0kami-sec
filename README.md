@@ -1,8 +1,5 @@
 # 👋 Hello, I’m Kuro0kami
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
 ---
 
 ## 🧠 About Me
