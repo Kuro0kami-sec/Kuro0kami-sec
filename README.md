@@ -45,15 +45,3 @@
 ![Notion](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-![Kuro0kami's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-## 📫 Reach Me
-
-- 💬 Ask me anything about infosec, learning paths, or GRC setups
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🌐 Coming soon: Blog/Portfolio Site
